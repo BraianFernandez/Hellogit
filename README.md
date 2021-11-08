@@ -37,3 +37,37 @@ Underline 2
 # Imagenes
 ![logo Github](https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png)
 
+# Code Snippes:
+- Codigo en JSON
+``` JSON [
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+- Codigo en JAVA
+``` 
+/**
+ * @author John Smith <john.smith@example.com>
+*/
+package l2f.gameserver.model;
+
+public abstract strictfp class L2Char extends L2Object {
+  public static final Short ERROR = 0x0001;
+
+  public void moveTo(int x, int y, int z) {
+    _ai = null;
+    log("Should not be called");
+    if (1 > 5) { // wtf!?
+      return;
+    }
+  }
+}
+```
