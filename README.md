@@ -90,3 +90,18 @@ public abstract strictfp class L2Char extends L2Object {
 
 - Aclaracion: Siempre al terminar una cita hay que dejar una linea libre para que se corte la cita y siempre se empieza con un >.
 
+# lineas Divisorias Horizontales
+Esto es un texto que sera dividido por guiones medios.
+
+----------------
+
+Esto es otro texto dividido por asteriscos.
+
+****
+
+Esto es un texto dividido por guiones bajos.
+
+_______________
+
+
+
