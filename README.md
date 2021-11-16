@@ -80,3 +80,13 @@ public abstract strictfp class L2Char extends L2Object {
 |Franco | Fernandez | 654321|
 |Jose Manuel| Fernandez| 987789|
 
+# Citas
+
+- A continuacion se creara una cita de un texto:
+> Esto es una cita.
+
+- Esto es otra cita diferente a la anterior:
+> Aqui esta la otra cita. 
+
+- Aclaracion: Siempre al terminar una cita hay que dejar una linea libre para que se corte la cita y siempre se empieza con un >.
+
