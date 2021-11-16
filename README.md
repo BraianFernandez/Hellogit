@@ -103,5 +103,11 @@ Esto es un texto dividido por guiones bajos.
 
 _______________
 
+# Saltos de lineas
 
+Este es el primer parrafo.
+
+Este es el segundo parrafo.
+
+Este es el tercer parrafo.
 
