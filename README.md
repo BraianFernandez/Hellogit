@@ -71,3 +71,12 @@ public abstract strictfp class L2Char extends L2Object {
   }
 }
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documentos  |
+|--------| -------- | ----------- |
+| Braian| Fernandez | 123456|
+|Franco | Fernandez | 654321|
+|Jose Manuel| Fernandez| 987789|
+
